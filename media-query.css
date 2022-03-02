@@ -1,0 +1,14 @@
+@media only screen and (max-width:720px){
+    body {
+        background-color: black;
+    }
+    header {
+        color: white;
+    }
+}
+@media only screen and (max-width: 389px){
+    #navbar {
+        padding: 1mm !important;
+    }
+}
+
